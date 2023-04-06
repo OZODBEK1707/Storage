@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848332820744",
+    "project_id": "storage-61ca7",
+    "storage_bucket": "storage-61ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848332820744:android:9ecbb051b44e4c632fdcbd",
+        "android_client_info": {
+          "package_name": "com.rosh.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848332820744-0u5gk8mreho17o2n572gite6kkfo2j5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBY6w09BXLgjRDY7nuO7QkQ-gt1Zx9U3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848332820744-0u5gk8mreho17o2n572gite6kkfo2j5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
